@@ -9,4 +9,4 @@ link = "https://github.com/FEFOLIPE/"
 url = pyqrcode.create(link)
 
 # Salvando a imagem
-url.png(r'instagramfefo.png', scale=8)
+url.png(r'imagem.png', scale=8)
